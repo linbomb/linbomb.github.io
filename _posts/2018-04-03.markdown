@@ -1,0 +1,21 @@
+---
+layout: post
+title: 使用Scrapy抓取分析大数据热门技能
+date: 2018-04-12 13:32:20 +0300
+description: 抓取招聘页面, 分析热门技能数据 # Add post description (optional)
+img: i-rest.jpg # Add image post (optional)
+tags: [爬虫, Scrapy]
+---
+<!-- ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg) -->
+
+## 背景
+由于大数据时代的到来, 大数据开发使用到的开发语言, 框架, 开源工具等更新迭代特别快. 所以, 对招聘网站上的招聘要求进行抓取, 分析热门词汇技能, 及时充电学习
+
+## Scrapy爬虫框架
+
+
+## 用tableau分析数据
+
+
+## 弄一个批处理脚本
+
